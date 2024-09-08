@@ -1,12 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.Oxo2PldjbTZMHD4tGD9eTwHaCq&pid=Api&P=0&h=180.gif" alt="MasterHead" style="width: 3000px; height: 300px;">
+</a>
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
 
 - 🌱 I’m currently learning **MERN ,**
-
 - 💬 Ask me about **javascript**
-
 - 📫 How to reach me **rajk70796@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
